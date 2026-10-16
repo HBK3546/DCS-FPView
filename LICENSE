@@ -1,0 +1,62 @@
+DCS FPView 最终用户许可协议（免费软件）
+DCS FPView End User License Agreement (Freeware)
+
+版权所有 © 2026 ☆Hibiki☆（bilibili：HBK_3546，UID：588653526）。保留所有权利。
+Copyright © 2026 ☆Hibiki☆ (bilibili: HBK_3546, UID: 588653526). All rights reserved.
+
+本协议适用于 DCS FPView（下称"本软件"）。安装或使用本软件即表示你同意本协议。
+This agreement applies to DCS FPView (the "Software"). Installing or using the Software means you accept it.
+
+一、使用许可
+作者授予你一项免费、非独占、不可转让、可撤销的许可，可在你自己的电脑上安装和使用本软件，用于个人、非商业用途。
+1. Licence
+The author grants you a free, non-exclusive, non-transferable, revocable licence to install and use the Software on your own
+computers for personal, non-commercial purposes.
+
+二、限制
+未经作者书面许可，你不得：
+(a) 出售、出租、出借本软件，或以任何方式用于盈利；
+(b) 修改、反编译、反汇编、逆向工程本软件，或基于本软件制作衍生作品（适用法律明确允许的情形除外）；
+(c) 删除、隐藏或修改本软件中的作者署名、版权声明或本协议；
+(d) 在作者发布渠道以外重新上传、打包或分发本软件；分享时请提供作者的官方发布链接。
+2. Restrictions
+Without the author's written permission you may not:
+(a) sell, rent or lend the Software or use it for any commercial gain;
+(b) modify, decompile, disassemble or reverse engineer the Software, or create derivative works from it, except where
+    applicable law expressly permits;
+(c) remove, hide or alter the author attribution, copyright notices or this agreement;
+(d) re-upload, repackage or distribute the Software outside the author's own release channels; share the official link instead.
+
+三、第三方组件
+Windows 版本内含的第三方组件（Python、Tcl/Tk、OpenSSL、zlib、libffi、Microsoft 运行库等）依据其各自的许可证提供，
+许可证文本见 licenses 文件夹及 THIRD_PARTY_NOTICES.md。本协议不限制你依据这些许可证对相应组件享有的任何权利。
+3. Third-party components
+Third-party components included in the Windows build (Python, Tcl/Tk, OpenSSL, zlib, libffi, Microsoft runtime libraries and
+others) are provided under their own licences; see the licenses folder and THIRD_PARTY_NOTICES.md. This agreement does not
+restrict any right you have in those components under their licences.
+
+四、与 DCS World 的关系
+本软件是独立的第三方免费工具，仅通过 DCS World 提供的 Export 脚本接口工作，不包含 DCS World 的任何程序文件或游戏素材。
+本软件并非由 Eagle Dynamics SA 制作或支持。
+THIS MATERIAL IS NOT MADE OR SUPPORTED BY EAGLE DYNAMICS SA.
+DCS 和 DCS World 是其权利人的商标。使用本软件时，你仍须遵守 DCS World 最终用户许可协议；本协议中作者主张的权利，
+以不与 Eagle Dynamics SA 依据该协议保留的权利相冲突为限。
+4. Relationship to DCS World
+The Software is an independent third-party freeware tool that works only through the Export script interface provided by
+DCS World and contains no DCS World program files or game assets. It is not made or supported by Eagle Dynamics SA.
+DCS and DCS World are trademarks of their respective owners. You must also comply with the DCS World End-User License
+Agreement; the author's rights claimed here apply only to the extent they do not conflict with rights reserved to
+Eagle Dynamics SA under that agreement.
+
+五、免责声明
+本软件按"原样"提供，不附带任何明示或默示的担保。在适用法律允许的最大范围内，作者不对因使用或无法使用本软件
+造成的任何直接或间接损失承担责任。
+5. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW, THE AUTHOR IS NOT LIABLE FOR ANY DIRECT OR INDIRECT DAMAGE ARISING FROM THE USE OF, OR INABILITY TO USE,
+THE SOFTWARE.
+
+六、终止
+如果你违反本协议，许可自动终止，你应停止使用并删除本软件。
+6. Termination
+This licence ends automatically if you breach this agreement; you must then stop using and delete the Software.
